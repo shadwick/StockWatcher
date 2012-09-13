@@ -48,6 +48,9 @@ public class StockWatcher implements EntryPoint {
   
   
   
+  /**
+   * Changes here in order to commit & push again.
+   */
   public void newMethod(){
 	  System.out.println("BitBucket > GitHub!");
   }
